@@ -21,7 +21,7 @@ Example
 
 Options
 -------
-You can override window.open() method native options. 
+You can override ` window.open() ` method native options. 
 
 Default options:
 
